@@ -1,6 +1,7 @@
 ## Password generator
 
 Usecase:- Suppose you know the correct username and you try some passwords related to that. In this case you can use this to generate passwords related to the username. Another best usecase of this the wordpress login where you can easly enumurate the username and for password you can use this tool.
+
 ### Supported in:
 Linux <br/>
 Termux <br/>
@@ -20,7 +21,7 @@ pkg install golang git
 ```
 
 ```bash
-git clone https://github.com/sudityashrivastav/password-generator
+git clone https://github.com/anonymouseshrivastav/password-generator
 ```
 
 ```bash
